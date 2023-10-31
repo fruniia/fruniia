@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fruniia
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C#, CSS, HTML, JS
+- 🌱 I’m currently learning C#, DEVOPS, Testing, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
