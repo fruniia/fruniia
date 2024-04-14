@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @fruniia
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C#, DEVOPS, Testing, React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm Anna a +50-year old woman/girl/chick studying to become a .NET-developer.
 
-<!---
-fruniia/fruniia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  The main part of the repos are filled with code/projects made during my education.
+  I really enjoy coding, solving problems and learning new techniques.
+
+- 🌱 I’m currently learning
+  - C#
+  - DEV/OPS
+  - Testing
+  - React/TypeScript
+  - Blazor
+
+
+
+
