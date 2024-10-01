@@ -4,11 +4,8 @@
   I really enjoy coding, solving problems and learning new techniques.
 
 - 🌱 I’m currently learning
-  - C#
-  - DEV/OPS
-  - Testing
-  - React/TypeScript
-  - Blazor
+  - Dart
+  - Flutter
 
 
 
